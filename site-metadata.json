@@ -11,7 +11,7 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "CARACTERISTICAS",
+                "label": "Features",
                 "url": "/features",
                 "style": "link"
             },
